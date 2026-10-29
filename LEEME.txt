@@ -1,0 +1,24 @@
+PERÚ VERDE 2050 — GRUPO 3
+Versión independiente de referencia basada en capturas proporcionadas por el grupo.
+
+PARA VERLA: abrir index.html en un navegador.
+PARA PUBLICAR GRATIS EN GITHUB PAGES:
+1. Crear un repositorio público en github.com, por ejemplo peru-verde-2050-grupo-3.
+2. Subir index.html, styles.css, app.js, data.js y la carpeta assets al nivel raíz.
+3. En Settings > Pages, elegir Deploy from a branch, main y /(root).
+4. Esperar a que GitHub muestre la URL. Verificarla desde una ventana privada.
+5. La aparición en Google no es inmediata ni garantizada.
+
+PARA AGREGAR ARCHIVOS SEMANALES:
+1. Subir PDF/PPT a Google Drive y configurar acceso de lectura para visitantes.
+2. Editar data.js, añadiendo entradas a weeks['4'], weeks['5'], etc.
+3. Las semanas 1-3 ya tienen secciones diseñadas. Para semana 4+ hay que crear una sección HTML y una tarjeta adicional; añadir enlaces en data.js no crea automáticamente una sección.
+4. Para encuesta pública crear Google Forms y poner la URL en surveyUrl.
+
+LIMITACIONES:
+- Esta es una reproducción visual aproximada, no exportación exacta del código original.
+- Las imágenes fueron recortadas de capturas, por lo que su calidad es limitada.
+- Verificar derechos, atribución de la imagen amazónica y autorización de uso de fotos antes de publicar.
+- No se dispone de los enlaces originales de informes, presentaciones y referencias específicas.
+- El formulario y el registro de opiniones no están activos hasta configurar Google Forms.
+- La web original no ha sido modificada y esta copia no está publicada en internet.
